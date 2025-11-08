@@ -74,9 +74,8 @@
 ## 📞 Support
 
 - 🌐 **Website**: [lastroundai.com](https://lastroundai.com)
-- 📧 **Email**: support@fyrosoft.com
+- 📧 **Email**: contact@fyrosoft.com
 - 🐛 **Report Issues**: [GitHub Issues](https://github.com/fyrosofttech/lastroundai-desktop/issues)
 
 ---
 
-**Built with ❤️ by Fyrosoft Technologies**
